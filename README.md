@@ -1,7 +1,6 @@
 **HI** I’m SaintCaeza
 
-I'm on a journey to understand and innovate-
-—refining my skills through CS50 and hands-on GitHub exploration 🔍
+I'm on a journey to understand and innovate—refining my skills through CS50 and hands-on GitHub exploration 🔍 
 I'm open to collaborations 🚀on open source projects where every contribution is a learning opportunity 
 Connect with me📡 Find me on LinkedIn, X, and Substack.
 <!---
